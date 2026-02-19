@@ -30,7 +30,7 @@ I want to move from “knowing tools” to “owning production systems”.
 
 ## 3. My Current Level
 
-Current Level: **Beginner / Fresher / Working Professional (edit this as per your case)**  
+Current Level:  Working Professional with 4+ years of experience in IT    
 Background: Basic Linux, Git, and some understanding of containers & cloud fundamentals.  
 Gaps: Real-world CI/CD pipelines, Kubernetes internals, production debugging.
 
