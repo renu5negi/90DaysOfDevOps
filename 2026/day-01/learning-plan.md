@@ -1,4 +1,4 @@
-Day 01 Task – Introduction to DevOps and Cloud
+# Day 01 Task – Introduction to DevOps and Cloud
 
 ---
 ## 1. My Understanding of DevOps & Cloud
