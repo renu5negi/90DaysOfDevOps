@@ -1,7 +1,7 @@
 Day 01 Task – Introduction to DevOps and Cloud
 
-
-1. My Understanding of DevOps & Cloud
+---
+## 1. My Understanding of DevOps & Cloud
 
 DevOps is not just tools like Docker, Kubernetes, or Jenkins.  
 It is a culture of collaboration between development and operations teams to deliver software faster, more reliably, and with better quality through automation, monitoring, and continuous improvement.
